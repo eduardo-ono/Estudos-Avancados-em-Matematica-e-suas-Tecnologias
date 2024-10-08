@@ -7,14 +7,14 @@
 
 ## Plano da Disciplina
 
-* [PDF](./612-MTec-PI-2024_Estudos-Avancados-em-Matematica-e-suas-Tecnologias-3o-Ano.pdf)
+* [PDF](./DS-612-MTec-PI-2024_Estudos-Avancados-em-Matematica-e-suas-Tecnologias-3o-Ano.pdf)
 
 &nbsp;
 
 ## Propostas de Projetos
 
-* [Projeto 1: Uso de "threads" para programação concorrente.](./proposta-projeto-1/)
+* [Projeto 1: Programação concorrente para a resolução de problemas matemáticos.](./proposta-do-projeto-1/)
 
-* [Projeto 2: Algoritmo de Djikstra para caminhos mínimos.](./proposta-projeto-2/)
+* [Projeto 2: Aplicação do algoritmo de Djikstra para caminhos mínimos.](./proposta-do-projeto-2/)
 
 &nbsp;

@@ -8,13 +8,13 @@
 
 * ### Administração (MTec-PI)
 
-  * #### 2024: 1o. Ano
+  * #### [2024: 1o. Ano](./administracao-mtec-pi/2024-1o-ano/)
 
 * ### Desenvolvimento de Sistemas (MTec-PI)
 
-  * #### 2024: 1o. Ano
+  * #### [2024: 1o. Ano](./desenvolvimento-de-siatemas-mtec-pi/2024-1o-ano/)
 
-  * #### 2024: 2o. Ano
+  * #### [2024: 2o. Ano](./desenvolvimento-de-siatemas-mtec-pi/2024-2o-ano/)
 
   * #### [2024: 3o. Ano](./desenvolvimento-de-siatemas-mtec-pi/2024-3o-ano/)
 
