@@ -51,12 +51,15 @@
 
 * GeoGebra ou Excel
 
+* <https://www4.bcb.gov.br/pec/poupanca/poupanca.asp>
+
 &nbsp;
 
 ## Material de Apoio
 
 | Thumb | Descrição |
 | --- | --- |
+| ![img](https://img.youtube.com/vi/M2u4ZWHO5jM/default.jpg) | <sup>[Dica de Hoje]</sup><br>[__Aporte alto INICIAL ou aportes MENSAIS? O que traz MAIS DINHEIRO no futuro?__](https://www.youtube.com/watch?v=M2u4ZWHO5jM)<br><sub>(9:24, YouTube, 02/Ago/2023)</sub> |
 | [![img](https://img.youtube.com/vi/-n8_IZbVAyw/default.jpg)](https://www.youtube.com/watch?v=-n8_IZbVAyw) | <sup>[YouTube_channel]</sup><br>[__Title__](https://www.youtube.com/watch?v=-n8_IZbVAyw)<br><sub>(hh:mm:ss, YouTube, dd/Mon/yyyy)</sub> |
 
 &nbsp;
