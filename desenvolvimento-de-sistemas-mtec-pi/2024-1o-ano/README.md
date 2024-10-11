@@ -53,7 +53,6 @@
 
 | Thumb | Descrição |
 | --- | --- |
-| [![img](https://img.youtube.com/vi/-n8_IZbVAyw/default.jpg)](https://www.youtube.com/watch?v=-n8_IZbVAyw) | <sup>[YouTube_channel]</sup><br>[__Title__](https://www.youtube.com/watch?v=-n8_IZbVAyw)<br><sub>(hh:mm:ss, YouTube, dd/Mon/yyyy)</sub> |
-
+| ![img](https://img.youtube.com/vi/-n8_IZbVAyw/default.jpg) | <sup>[YouTube_channel]</sup><br>[__Title__](https://www.youtube.com/watch?v=-n8_IZbVAyw)<br><sub>(hh:mm:ss, YouTube, dd/Mon/yyyy)</sub> |
 
 &nbsp;

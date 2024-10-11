@@ -11,6 +11,16 @@
 
 &nbsp;
 
+## Conteúdo Programático
+
+| Aula | Data | Descrição |
+| :-: | :-: | :-- |
+| 01 | 02/10 | - Apresentação das propostas para os projetos do 4&ordm; semestre. |
+| 02-03 | 04/10 | - Conceitos de _threads_, concorrência e paralelismo.<br>- Exemplo de paralelismo em linguagem Java. |
+| 04 | 09/10 | - Algoritmo de Dijkstra para caminhos mínimos.<br>- Representação de um grafos por meio de uma Matriz de Adjacência. |
+
+&nbsp;
+
 ## Propostas de Projetos
 
 * [Projeto 1: Programação concorrente para a resolução de problemas matemáticos.](./proposta-do-projeto-1/)
