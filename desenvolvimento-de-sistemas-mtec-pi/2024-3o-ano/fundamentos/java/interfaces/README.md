@@ -7,7 +7,7 @@
 
 ## Interfaces
 
-Uma interface determina assinaturas de atributos e métodos, os quais devem ser implementados em classes.
+Uma interface determina assinaturas de atributos e métodos, os quais devem ser definidos (implementados) em classes que implementam a interface.
 
 ### Características
 
@@ -18,9 +18,9 @@ Uma interface determina assinaturas de atributos e métodos, os quais devem ser 
 
 &nbsp;
 
-## Exemplos
+### Exemplos
 
-### Interface Círculo
+#### Interface Círculo
 
 ```Java
 public interface Circulo {
@@ -32,6 +32,8 @@ public interface Circulo {
 
 }
 ```
+
+### Classe `Disco` que implementa a interface `Circulo`
 
 ```java
 public class Disco {

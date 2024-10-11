@@ -1,12 +1,12 @@
-<h1 align="center">Proposta do Projeto 1</h1>
+<h1 align="center">Proposta do Projeto 2</h1>
 <h3 align="center">Prof. Eduardo Ono</h3>
 <h5 align="center">Atualizado em: 11/10/2024</h5>
 
 &nbsp;
 
-## Tema: Paralelismo computacional na resolução de problemas matemáticos
+## Tema: Aplicações do algoritmo de Djikstra para caminhos mínimos
 
-* O tema compreende o uso de "threads" para o desenvolvimento de sistemas multiprocessados na resolução de problemas matemáticos, com ênfase naqules que envolvem "força bruta".
+* O tema compreende a aplicação do Algoritmo de DIjskstra para caminhos mínimos.
 
 &nbsp;
 
