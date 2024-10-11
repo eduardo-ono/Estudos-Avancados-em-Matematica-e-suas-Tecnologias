@@ -15,10 +15,10 @@
 
 | Aula | Data | Descrição |
 | :-:  | :-:  | :--       |
-| 01    | 02/10 | - Apresentação das propostas para os projetos do 4&ordm; semestre. |
-| 02-03 | 04/10 | - Conceitos de _threads_, concorrência e paralelismo;<br>- Exemplo de paralelismo em linguagem Java. |
+| 01    | 02/10 | - Apresentação das [propostas para os projetos do 4&ordm; semestre](#propostas-de-projetos). |
+| 02-03 | 04/10 | - Conceitos de _threads_, concorrência e paralelismo;<br>- Exemplo de paralelismo em linguagem Java;<br>- Introdução a grafos e suas aplicações. |
 | 04    | 09/10 | - Algoritmo de Dijkstra para caminhos mínimos;<br>- Representação de um grafo por meio de uma Matriz de Adjacência. |
-| 05-06 | 11/10 | - [Revisão de Programação Orientada a Objetos (POO) em Java](./fundamentos/java/README.md);<br>- Implementação de _threads_ em Java. |
+| 05-06 | 11/10 | - [Revisão de Programação Orientada a Objetos (POO) em Java](./fundamentos/java/README.md);<br>- [Implementação de _threads_ em Java.](./fundamentos/threads/threads-em-java/) |
 
 &nbsp;
 
