@@ -39,3 +39,9 @@ for (long i = 1; i <= num / 2; i++) {
 | [![img](https://img.youtube.com/vi/nODe5lFcGpg/default.jpg)](https://www.youtube.com/watch?v=nODe5lFcGpg) | <sup>[Fernanda Kipper \| Dev]</sup><br>[__Aprenda JAVA do ZERO \| Curso GRATUITO de Java para iniciantes__](https://www.youtube.com/watch?v=nODe5lFcGpg)<br><sub>(1:49:21, YouTube, 03/Out/2024)</sub> |
 
 &nbsp;
+
+## Referências
+
+* <https://www.geeksforgeeks.org/java-multithreading-tutorial/>
+
+&nbsp;
