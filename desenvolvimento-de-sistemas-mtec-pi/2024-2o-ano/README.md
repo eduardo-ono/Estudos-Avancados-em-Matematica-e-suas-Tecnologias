@@ -119,3 +119,12 @@
 | ![img](https://img.youtube.com/vi/JCOv6ITiGEo/default.jpg) | <sup>[Got It!]</sup><br>[__Ramanujan's Magic Square__](https://www.youtube.com/watch?v=JCOv6ITiGEo)<br><sub>(2:18, YouTube, 19/Jun/2016)</sub> |
 
 &nbsp;
+
+## Sugestão de Filmes e Documentários
+
+| Thumb | Descrição |
+| --- | --- |
+| ![img](https://img.youtube.com/vi/cceTAztEWiQ/default.jpg) | <sup>[Movies Phenomena]</sup><br>[__The Man Who Knew Infinity \| Dev Patel Full Movie \| Biography Of S. Ramanujan \| With Subtitles__](https://www.youtube.com/watch?v=cceTAztEWiQ)<br><sub>(1:48:35, YouTube, 17/Jul/2020)[.](https://www.mediafire.com/file/840t951tgawo7lf/The_Man_Who_Knew_Infinity_%25282015%2529.zip/file)</sub> |
+
+
+&nbsp;
