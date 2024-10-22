@@ -1,6 +1,6 @@
 <h1 align="center">Estudos Avançados em Matemática e suas Tecnologias</h1>
 <h3 align="center">Prof. Eduardo Ono</h3>
-<h5 align="center">Atualizado em: 03/Set/2024</h5>
+<h5 align="center">Atualizado em: 03/Out/2024</h5>
 
 ---
 
