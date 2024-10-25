@@ -19,14 +19,15 @@ public class Main {
 
     public static void main(String[] args) {
         // Inicia o benchmark
-        long startTime = System.nanoTime();
+        Tempo tempo = new Tempo();
+        tempo.start();
 
         metodo(1);
         metodo(2);
 
         // Finaliza o benchmark
-        double tempoDecorrido = (System.nanoTime() - startTime) / 1000.0 / 1000.0 / 1000.0;
-        System.out.println("Tempo de execucao: " + tempoDecorrido + " s");
+        tempo.stop();
+        System.out.println("Tempo de execucao: " + tempo.getTempoDecorrido() + " s");
     }
 
 }
