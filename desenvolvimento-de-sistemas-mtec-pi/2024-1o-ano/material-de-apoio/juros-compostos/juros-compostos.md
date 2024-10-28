@@ -19,7 +19,7 @@ Exemplo:
 Para uma aplicação de R\$ 10.000,00 (capital) na Caderneta e Poupança a uma taxa de 0,52$ ao mês, o montante após 1 ano (12 meses) será:
 
 $C$ (R$) = 10.000,00<br>
-$j$ (a.m.) = 0,52% = 0,52/100 = 0,0052<br>
+$j$ (a.m.) = 0,6% = 0,6/100 = 0,006<br>
 $t$ (meses) = 12<br>
 $M_{12}$ (após 1 ano) = ?
 

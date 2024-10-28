@@ -7,11 +7,25 @@
 
 ## Plano da Disciplina
 
-* [PDF](./612-MTec-PI-2024_Estudos-Avancados-em-Matematica-e-suas-Tecnologias-3o-Ano.pdf)
+* [PDF](./docs/DS-612-MTec-PI-2024_Estudos-Avancados-em-Matematica-e-suas-Tecnologias-1o-Ano.pdf)
 
 &nbsp;
 
-## Proposta de Projeto
+## Conteúdo Programático
+
+| Aula | Data | Conteúdo |
+| :-: | :-: | :-- |
+| 01 | 08/10 | Apresentação da [proposta para o Projeto do 4º Semestre]. |
+| -- | 15/10 | (NL: Dia do Professor) |
+| 02 | 22/10 | Conceitos de Juros Simples e [Juros Compostos]; Fórmula para o cálculo de Juros Compostos: Definição e demonstração. |
+| 03 | 29/10 | |
+
+[Juros Compostos]: [](./material-de-apoio/juros-compostos/)
+[proposta para o Projeto do 4º Semestre]: #proposta-para-o-projeto-do-4º-semestre
+
+&nbsp;
+
+## Proposta para o Projeto do 4º Semestre
 
 * ### Tema: Aplicação Financeira
 
@@ -19,27 +33,27 @@
 
   * Parte Prática
 
-    * Cada integrante do grupo deverá estabelecer uma meta financeira, ou seja especificar um montante final após um determinado período de aplicação, considerar um aporte mensal e diferentes taxas de juros.
+    * Cada integrante do grupo deverá estabelecer uma meta financeira, ou seja especificar um montante final após um determinado período de aplicação, considerando um aporte mensal e diferentes taxas de juros.
 
     * Plotar os gráficos para visualização das aplicações.
 
-    * Analisar a aplicação através de uma Matriz SWOT.
+    * Analisar a aplicação financeira através de uma Matriz SWOT.
 
 &nbsp;
 
 ## Trabalho final
 
-* Documento em formato PDF contendo a parte Teórica e a Parte Prática.
+* Documento único em formato PDF contendo a Parte Teórica e a Parte Prática.
 
-* O trabalho deverá conter uma capa com informação do curso e turma, nomes dos intergrantes, data.
+* O trabalho deverá conter uma capa com informação do curso e turma, nomes dos intergrantes e data.
 
 * O documento deve estar paginado, a exceção da capa.
 
 ## Critério de Avaliação
 
-* Parte Teórica: 50 % da nota, geral (a mesma) para todos os integrantes do grupo.
+* Parte Teórica: 50 % da nota, sendo a mesma nota para todos os integrantes do grupo.
 
-* Parte Prática: 50 % da nota, individual para cada integrante do grupo.
+* Parte Prática: 50 % da nota, sendo a nota individual para cada integrante do grupo.
 
 ## Recursos
 
