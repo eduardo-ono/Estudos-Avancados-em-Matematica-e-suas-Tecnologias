@@ -1,13 +1,13 @@
 <h1 align="center">Estudos Avançados em Matemática e suas Tecnologias</h1>
 <h2 align="center">(Desenvolvimento de Sistemas - MTec-PI - 1o. Ano)</h2>
 <h3 align="center">Prof. Eduardo Ono</h3>
-<h5 align="center">Atualizado em: 21/10/2024</h5>
+<h5 align="center">Atualizado em: 28/10/2024</h5>
 
 &nbsp;
 
 ## Plano da Disciplina
 
-* [PDF](./DS-612-MTec-PI-2024_Estudos-Avancados-em-Matematica-e-suas-Tecnologias-2o-Ano.pdf)
+* [PDF](./docs/DS-612-MTec-PI-2024_Estudos-Avancados-em-Matematica-e-suas-Tecnologias-2o-Ano.pdf)
 
 &nbsp;
 
@@ -15,10 +15,12 @@
 
 | Aula | Data | Descrição |
 | :-: | :-: | :-- |
-| 01 | 08/10 | [Apresentação da proposta para o Projeto do 4º Semestre](#proposta-do-projeto-do-4º-semestre). |
-| | 15/10 | NL (Feriado: Dia do Professor). |
-| 02 | 22/10 | |
+| 01 | 08/10 | - Apresentação da [proposta do Projeto do 4º Semestre];<br>- Definição de quadrado mágico. |
+|    | 15/10 | (NL: Dia do Professor) |
+| 02 | 22/10 | - Exemplos de quadrados mágicos: Quadrado mágico de Ramanujan;<br>. |
 | 03 | 29/10 | |
+
+[proposta do Projeto do 4º Semestre]: #proposta-do-projeto-do-4º-semestre
 
 &nbsp;
 
@@ -116,7 +118,7 @@
 
 | Thumb | Descrição |
 | --- | --- |
-| ![img](https://img.youtube.com/vi/JCOv6ITiGEo/default.jpg) | <sup>[Got It!]</sup><br>[__Ramanujan's Magic Square__](https://www.youtube.com/watch?v=JCOv6ITiGEo)<br><sub>(2:18, YouTube, 19/Jun/2016)</sub> |
+| ![img](https://img.youtube.com/vi/JCOv6ITiGEo/default.jpg) | <sup><sub>[Got It!]</sub></sup> [__Ramanujan's Magic Square__](https://www.youtube.com/watch?v=JCOv6ITiGEo)<br><sub>(2:18, YouTube, 19/Jun/2016)</sub> |
 
 &nbsp;
 
@@ -124,7 +126,6 @@
 
 | Thumb | Descrição |
 | --- | --- |
-| ![img](https://img.youtube.com/vi/cceTAztEWiQ/default.jpg) | <sup>[Movies Phenomena]</sup><br>[__The Man Who Knew Infinity \| Dev Patel Full Movie \| Biography Of S. Ramanujan \| With Subtitles__](https://www.youtube.com/watch?v=cceTAztEWiQ)<br><sub>(1:48:35, YouTube, 17/Jul/2020)[.](https://www.mediafire.com/file/840t951tgawo7lf/The_Man_Who_Knew_Infinity_%25282015%2529.zip/file)</sub> |
-
+| ![img](https://img.youtube.com/vi/cceTAztEWiQ/default.jpg) | <sup><sub>[Movies Phenomena]</sub></sup> [__The Man Who Knew Infinity \| Dev Patel Full Movie \| Biography Of S. Ramanujan \| With Subtitles__](https://www.youtube.com/watch?v=cceTAztEWiQ)<br><sub>(1:48:35, YouTube, 17/Jul/2020)[.](https://www.mediafire.com/file/840t951tgawo7lf/The_Man_Who_Knew_Infinity_%25282015%2529.zip/file)</sub> |
 
 &nbsp;

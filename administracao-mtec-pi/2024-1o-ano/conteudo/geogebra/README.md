@@ -22,6 +22,6 @@
 
 | Thumb | Descrição |
 | --- | --- |
-| ![img](https://img.youtube.com/vi/UZpGK-WLAh4/default.jpg) | <sup>[Mat com Tondi]</sup><br>[__GEOGEBRA 06 - CONTROLE DESLIZANTE__](https://www.youtube.com/watch?v=UZpGK-WLAh4)<br><sub>(7:25, YouTube, 23/Abr/2020)</sub> |
+| ![img](https://img.youtube.com/vi/UZpGK-WLAh4/default.jpg) | <sup><sub>[Mat com Tondi]</sub></sup> [__GEOGEBRA 06 - CONTROLE DESLIZANTE__](https://www.youtube.com/watch?v=UZpGK-WLAh4)<br><sub>(7:25, YouTube, 23/Abr/2020)</sub> |
 
 &nbsp;

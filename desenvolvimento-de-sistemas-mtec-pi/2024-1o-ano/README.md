@@ -1,7 +1,7 @@
 <h1 align="center">Estudos Avançados em Matemática e suas Tecnologias</h1>
-<h2 align="center">(Desenvolvimento de Sistemas - 1o. Ano)</h2>
+<h2 align="center">(Desenvolvimento de Sistemas - MTec-PI - 1o. Ano)</h2>
 <h3 align="center">Prof. Eduardo Ono</h3>
-<h5 align="center">Atualizado em: 07/10/2024</h5>
+<h5 align="center">Atualizado em: 28/10/2024</h5>
 
 &nbsp;
 
@@ -15,13 +15,14 @@
 
 | Aula | Data | Conteúdo |
 | :-: | :-: | :-- |
-| 01 | 08/10 | Apresentação da [proposta para o Projeto do 4º Semestre]. |
+| 01 | 08/10 | - Apresentação da [proposta do Projeto do 4º Semestre]. |
 | -- | 15/10 | (NL: Dia do Professor) |
-| 02 | 22/10 | Conceitos de Juros Simples e [Juros Compostos]; Fórmula para o cálculo de Juros Compostos: Definição e demonstração. |
+| 02 | 22/10 | - Conceitos de Juros Simples e [Juros Compostos];<br>- Fórmula para o cálculo de Juros Compostos: Definição e demonstração;<br>[Instalação do interpretador do Python]. |
 | 03 | 29/10 | |
 
-[Juros Compostos]: [](./material-de-apoio/juros-compostos/)
-[proposta para o Projeto do 4º Semestre]: #proposta-para-o-projeto-do-4º-semestre
+[Juros Compostos]: ./conteudo/juros-compostos/
+[proposta do Projeto do 4º Semestre]: #proposta-para-o-projeto-do-4º-semestre
+[Instalação do interpretador do Python]: ./conteudo/python/00-ambiente-de-desenvolvimento/
 
 &nbsp;
 
