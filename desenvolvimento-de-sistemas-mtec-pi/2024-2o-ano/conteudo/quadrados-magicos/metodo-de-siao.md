@@ -11,8 +11,7 @@ São duias regras:
 
 1. Movimentar uma célula para cima e uma célula para a direita. Inserir o número na sequência. Caso o índice da linha seja -1, considerar o índice como sendo a da última linha. Caso o índice da coluna seja maior que o do índice da última coluna, considerar o índice como 1 (ou zero em algumas linguagens de programação).
 
-2. Caso a célula esteja ocupada, voltar para a posição anterior e descer uma célula.,
-
+2. Caso a célula esteja ocupada, voltar para a posição anterior e descer uma célula.
 
 ### Vídeos de Apoio
 

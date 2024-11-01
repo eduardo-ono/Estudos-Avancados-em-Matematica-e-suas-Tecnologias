@@ -23,7 +23,9 @@ Nesse quadrado de ordem 3, a soma de qualquer linha, coluna ou diagonal é igual
 | --- | --- |
 | ![img](https://img.youtube.com/vi/Lv3-zrczABY/default.jpg) | <sup><sub>[Matemática com Morgado]</sub></sup> [__Desafio de Matemática e Lógica - QUADRADO MÁGICO__](https://www.youtube.com/watch?v=Lv3-zrczABY)<br><sub>(10:49, YouTube, 13/Mai/2020)</sub> |
 
-## Métodos de Construção de Quadrados Mágicos
+&nbsp;
+
+## Métodos para a Construção de Quadrados Mágicos
 
 * [Método de Sião](./metodo-de-siao.md)
 

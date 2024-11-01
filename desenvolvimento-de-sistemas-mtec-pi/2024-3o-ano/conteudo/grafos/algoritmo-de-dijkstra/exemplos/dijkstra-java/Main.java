@@ -13,5 +13,4 @@ public class Main {
         Dijkstra dijkstra = new Dijkstra(grafo, 0);
         dijkstra.imprimirSolucao();
     }
-
 }
