@@ -22,6 +22,7 @@ function MinimumDistance($distance, $shortestPathTreeSet, $numVertices)
 	return $minIndex;
 }
 
+// Caso a saída seja uma página web, substrituir os caracteres de controle "\t" e "\n" por "&nbsp;&nbsp;&nbsp;&nbsp;" e "<br", respectivamente.
 function PrintResult($distance, $numVertices)
 {
 	echo "Vertex \t Distancia da origem\n";

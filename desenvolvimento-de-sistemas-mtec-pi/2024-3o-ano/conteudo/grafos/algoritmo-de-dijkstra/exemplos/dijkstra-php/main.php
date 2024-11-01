@@ -11,5 +11,6 @@ $grafo = array(
     array(0, 0, 0, 6, 2, 0 )
 );
 
-// Parâmetros: grafo, vértice origem, ordem da matriz
+// Parâmetros da função Dijkstra:
+//(grafo, vértice origem, ordem da Matriz de Adjacência)
 Dijkstra($grafo, 0, 6);
