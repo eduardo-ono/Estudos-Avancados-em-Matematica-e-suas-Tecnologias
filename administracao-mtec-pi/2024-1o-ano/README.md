@@ -1,5 +1,5 @@
 $$
-\text{---\{ Administração - MTec-PI - 1º Ano \}---}
+\text{Administração - MTec-PI - 1º Ano}
 $$
 
 <h1 align="center">Estudos Avançados em Matemática e suas Tecnologias</h1>
