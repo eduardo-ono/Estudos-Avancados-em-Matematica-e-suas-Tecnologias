@@ -30,6 +30,17 @@ function criarQuadrado() {
   }
 }
 
+function alterarValores() {
+
+  for (let row = 0; row < celulas.length; row++) {
+    linha = [];
+    for (let col = 0; col < celulas.length; col++) {
+      linha[col] = celulas[row][col];
+      linha[col].innerText = 100;
+    }
+  }
+}
+
 /*
 const quadrado = document.getElementById('quadrado');
 

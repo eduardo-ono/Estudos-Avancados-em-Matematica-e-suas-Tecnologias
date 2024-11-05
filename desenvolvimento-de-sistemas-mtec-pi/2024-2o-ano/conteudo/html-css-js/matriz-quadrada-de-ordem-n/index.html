@@ -1,3 +1,13 @@
+for (let row = 0; row < ordemQuadrado; row++) {
+  // linha.splice(0, linha.length); // Limpa linha[]
+  linha = [];
+  for (var col = 0; col < ordemQuadrado; col++) {
+    linha[col] = document.createElement('div');
+    linha[col].classList.add('celulas');
+    linha[col].innerText = `${row}, ${col}`;
+  }
+  celulas.push(linha);
+}
 <!DOCTYPE html>
 <html lang="pt-BR">
 
@@ -17,6 +27,7 @@
     <button onclick="criarQuadrado()">Criar Quadrado</button>
   </div>
   <div id="quadrado"></div>
+  <button onclick="alterarValores()">Alterar valores</button>
 </body>
 
 </html>
