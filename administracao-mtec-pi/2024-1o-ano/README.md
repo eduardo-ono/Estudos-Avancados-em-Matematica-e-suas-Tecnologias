@@ -1,7 +1,7 @@
 <h1 align="center">Estudos Avançados em Matemática e suas Tecnologias</h1>
-<h2 align="center">(Administração - MTec-PI - 1o. Ano)</h2>
-<h3 align="center">Prof. Eduardo Ono</h3>
-<h5 align="center">Atualizado em: 28/10/2024</h5>
+<h2 align="center">Administração - MTec-PI - 1º Ano</h2>
+<h4 align="center">Prof. Eduardo Ono</h4>
+<h6 align="center"><img src="https://img.shields.io/github/last-commit/eduardo-ono/Estudos-Avancados-em-Matematica-e-suas-Tecnologias" alt="img" height="100%"></h6>
 
 &nbsp;
 
@@ -11,18 +11,11 @@
 
 &nbsp;
 
-## Tópicos
-
-* [Juros Compostos](./conteudo/juros-compostos/)
-* [GeoGebra](./conteudo/geogebra/)
-
-&nbsp;
-
 ## Conteúdo Programático
 
 | Aula | Data | Descrição |
 | :-:  | :-:  | :-- |
-|  01  | 08/10 | Apresentação da [proposta do Projeto do 4º Semestre]. |
+|  01  | 08/10 | <ul><li>Apresentação da [proposta do Projeto do 4º Semestre].</li></ul> |
 |      | 15/10 | (NL: Dia do Professor) |
 |  02  | 22/10 | Definição e dedução da [fórmula dos Juros Compostos]. |
 |  03  | 29/10 | <ul><li>Introdução ao [programa GeoGebra].</li><li>Gráfico de funções no GeoGebra.</li></ul> |
@@ -70,63 +63,20 @@
 
 ### Exemplo da estrutura do trabalho
 
-<table>
-  <tr>
-    <th>Capa</th>
-    <th>
-      <li>Curso</li>
-      <li>Turma</li>
-      <li>Disciplina</li>
-      <li>Prof. responsável</li>
-      <li>Título do trabalho</li>
-      <li>Nomes dos integrantes</li>
-      <li>Data</li>
-    </th>
-  </tr>
-  <tr>
-    <td>
-      Sumário (opcional)
-    </td>
-    <td>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Parte Teórica
-    </td>
-    <td>
-      <li>Introdução</li>
-      <li>Conceitos e Definições</li>
-      <li>Recursos utilizados</li>
-      <li>Etc.</li>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Parte Prática
-    </td>
-    <td>
-      <li>Estudo de Caso (Integrante 1)</li>
-      <li>Objetivos e Metas</li>
-      <li>Gráficos</li>
-      <li>Matriz SWOT</li>
-      <li>Conclusão</li>
-      <li>Estudo de Caso (Integrante 2)</li>
-      <li>Objetivos e Metas</li>
-      <li>Gráficos</li>
-      <li>Matriz SWOT</li>
-      <li>Conclusão</li>
-    </td>
-  </tr>
-</table>
+| Seções | Conteúdo |
+| :-: | --- |
+| Capa | <ul><li>Curso</li><li>Turma</li><li>Disciplina</li><li>Prof. responsável</li><li>Título do trabalho</li><li>Nomes dos integrantes</li><li>Data</li></ul> |
+| Sumário | Opcional |
+| Parte Teórica | <ul><li>Introdução</li><li>Conceitos e/ou Definições</li><li>Recursos utilizados</li><li>Etc.</li></ul> |
+| Parte Prática | Estudo de Caso (Integrante 1)<ul><li>Objetivos e Metas</li><li>Gráficos</li><li>Matriz SWOT</li><li>Conclusão</li></ul>Estudo de Caso (Integrante 2)<ul><li>Objetivos e Metas</li><li>Gráficos</li><li>Matriz SWOT</li><li>Conclusão</li></ul>... |
 
 &nbsp;
 
 ## Critério de Avaliação
 
-* Parte Teórica: 50 % da nota, sendo a mesma para todos os integrantes do grupo.
+* Parte Teórica: 50 % da nota, sendo a mesma nota para todos os integrantes do grupo.
 
-* Parte Prática: 50 % da nota, sendo individual para cada integrante do grupo.
+* Parte Prática: 50 % da nota, sendo a nota individual para cada integrante do grupo.
 
 &nbsp;
 
