@@ -22,13 +22,17 @@
 
 | Aula | Data | Descrição |
 | :-:  | :-:  | :-- |
-| 01 | 08/10 | Apresentação da [proposta do Projeto do 4º Semestre]. |
-|    | 15/10 | (NL: Dia do Professor) |
-| 02 | 22/10 | Definição e dedução da [fórmula dos Juros Compostos]. |
-| 03 | 29/10 | |
+|  01  | 08/10 | Apresentação da [proposta do Projeto do 4º Semestre]. |
+|      | 15/10 | (NL: Dia do Professor) |
+|  02  | 22/10 | Definição e dedução da [fórmula dos Juros Compostos]. |
+|  03  | 29/10 | <ul><li>Introdução ao [programa GeoGebra].</li><li>Gráfico de funções no GeoGebra.</li></ul> |
+|  04  | 05/11 | <ul><li>[Intervalos de Funções no GeoGebra].</li><li>[Múltiplas funções no GeoGebra].</li></ul> |
 
 [proposta do Projeto do 4º Semestre]: #proposta-do-projeto-do-4º-semestre
 [fórmula dos Juros Compostos]: ./conteudo/juros-compostos/
+[programa GeoGebra]: ./conteudo/geogebra/
+[Intervalos de Funções no GeoGebra]: ./conteudo/geogebra/funcoes.md
+[Múltiplas funções no GeoGebra]: ./conteudo/geogebra/multiplas-funcoes.md
 
 &nbsp;
 
