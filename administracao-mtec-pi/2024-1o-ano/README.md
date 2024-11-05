@@ -1,6 +1,6 @@
 <h1 align="center">Estudos Avançados em Matemática e suas Tecnologias</h1>
 <h2 align="center">Administração - MTec-PI - 1º Ano</h2>
-<h4 align="center">Prof. Eduardo Ono</h4>
+<h3 align="center">Prof. Eduardo Ono</h3>
 <h6 align="center"><img src="https://img.shields.io/github/last-commit/eduardo-ono/Estudos-Avancados-em-Matematica-e-suas-Tecnologias" alt="img" height="100%"></h6>
 
 &nbsp;
