@@ -1,6 +1,6 @@
 <img alt="" width="100%" height="2px" align="right">
 <img src="https://img.shields.io/github/last-commit/eduardo-ono/Estudos-Avancados-em-Matematica-e-suas-Tecnologias" alt="" height="100%" align="right">
-<ul><sub><li>Estudos Avançados em Matemática e suas Tecnologias</li></sub></ul>
+<sub><ul><li>Estudos Avançados em Matemática e suas Tecnologias</li></ul></sub>
 <img alt="" width="100%" height="2px" align="right">
 
 &nbsp;
