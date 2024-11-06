@@ -2,6 +2,7 @@
 
 require './dijkstra.php';
 
+// Matriz de Adjacências
 $grafo = array(
     array(0, 4, 2, 0, 0, 0),
     array(4, 0, 1, 5, 0, 0),
@@ -11,6 +12,17 @@ $grafo = array(
     array(0, 0, 0, 6, 2, 0 )
 );
 
-// Parâmetros da função Dijkstra:
-//(grafo, vértice origem, ordem da Matriz de Adjacência)
-Dijkstra($grafo, 0, 6);
+$origem = 0;
+
+// Parâmetros da função Dijkstra: (grafo, vértice_origem, ordem_da_Matriz_de_Adjacências)
+//Dijkstra($grafo, 0, 6);
+$distancias_minimas = Dijkstra($grafo, $origem, count($grafo));
+
+$cidades = array('Pirassununga', 'Leme', 'Araras', 'Porto Ferreira', 'Mococa', 'Rio Claro');
+
+// Imprime as distâncias mínimas
+echo 'Origem: ' . $cidades[$origem] . "\n";
+echo "Vertice \t Distancia da origem\n";
+for ($i = 0; $i < count($grafo); ++$i) {
+    echo $cidades[$i] . ":  " . $distancias_minimas[$i] . "\n";
+}

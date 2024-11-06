@@ -54,6 +54,6 @@ function Dijkstra($grafo, $origem, $numVertices)
 			if (!$shortestPathTreeSet[$v] && $grafo[$u][$v] && $distance[$u] != $INT_MAX && $distance[$u] + $grafo[$u][$v] < $distance[$v])
 				$distance[$v] = $distance[$u] + $grafo[$u][$v];
 	}
-
-	PrintResult($distance, $numVertices);
+	// PrintResult($distance, $numVertices);
+	return $distance;
 }
