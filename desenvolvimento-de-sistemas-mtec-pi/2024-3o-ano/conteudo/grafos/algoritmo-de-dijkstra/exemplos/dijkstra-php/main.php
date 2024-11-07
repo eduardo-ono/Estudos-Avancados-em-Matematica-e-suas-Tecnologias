@@ -15,13 +15,13 @@ $grafo = array(
 $origem = 0;
 
 // Parâmetros da função Dijkstra: (grafo, vértice_origem, ordem_da_Matriz_de_Adjacências)
-//Dijkstra($grafo, 0, 6);
+// Dijkstra($grafo, 0, 6);
 $distancias_minimas = Dijkstra($grafo, $origem, count($grafo));
 
 $cidades = array('Pirassununga', 'Leme', 'Araras', 'Porto Ferreira', 'Mococa', 'Rio Claro');
 
 // Imprime as distâncias mínimas
-echo 'Origem: ' . $cidades[$origem] . "\n";
+echo "Origem: " . $cidades[$origem] . "\n";
 echo "Vertice \t Distancia da origem\n";
 for ($i = 0; $i < count($grafo); ++$i) {
     echo $cidades[$i] . ":  " . $distancias_minimas[$i] . "\n";

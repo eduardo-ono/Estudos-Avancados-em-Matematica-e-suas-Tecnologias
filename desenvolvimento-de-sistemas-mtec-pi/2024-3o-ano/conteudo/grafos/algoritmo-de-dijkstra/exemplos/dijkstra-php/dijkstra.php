@@ -1,6 +1,11 @@
 <?php
 
-//
+/*
+ * Arquivo: dijkstra.php
+ * Última modificação: 06.11.2024
+ * Referências:
+ *
+ */
 
 $INT_MAX = 0x7FFFFFFF;
 

@@ -39,7 +39,7 @@
 
   * Introdução
 
-  * Conceituar e definir os termos técnicos utilizados no trabalho.
+  * Conceituar e/ou definir os termos técnicos utilizados no trabalho.
 
   * Demonstração das fórmulas matemáticas utilizadas.
 

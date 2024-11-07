@@ -28,17 +28,21 @@
 
 ## Proposta para o Projeto do 4º Semestre
 
-* ### Tema: Aplicação Financeira
+* ### Parte Teórica (em grupo)
 
-  * Parte Teórica
+  * Introdução
 
-  * Parte Prática
+  * Conceituar e/ou definir os termos técnicos utilizados no trabalho.
 
-    * Cada integrante do grupo deverá estabelecer uma meta financeira, ou seja especificar um montante final após um determinado período de aplicação, considerando um aporte mensal e diferentes taxas de juros.
+  * Demonstração das fórmulas matemáticas utilizadas.
 
-    * Plotar os gráficos para visualização das aplicações.
+* ### Parte Prática
 
-    * Analisar a aplicação financeira através de uma Matriz SWOT.
+  * Cada integrante do grupo deverá estabelecer uma meta financeira, ou seja especificar um montante final após um determinado período de aplicação, considerando um aporte mensal e diferentes taxas de juros.
+
+  * Plotar os gráficos para visualização das aplicações.
+
+  * Analisar a aplicação financeira através de uma Matriz SWOT.
 
 &nbsp;
 
@@ -56,9 +60,20 @@
 
 * Parte Prática: 50 % da nota, sendo a nota individual para cada integrante do grupo.
 
+### Exemplo da estrutura do trabalho
+
+| Seções | Conteúdo |
+| :-: | --- |
+| Capa | <ul><li>Curso</li><li>Turma</li><li>Disciplina</li><li>Prof. responsável</li><li>Título do trabalho</li><li>Nomes dos integrantes</li><li>Data</li></ul> |
+| Sumário | Opcional |
+| Parte Teórica | <ul><li>Introdução</li><li>Conceitos e/ou Definições</li><li>Recursos utilizados</li><li>Etc.</li></ul> |
+| Parte Prática | Estudo de Caso (Integrante 1)<ul><li>Objetivos e Metas</li><li>Gráficos</li><li>Matriz SWOT</li><li>Conclusão</li></ul>Estudo de Caso (Integrante 2)<ul><li>Objetivos e Metas</li><li>Gráficos</li><li>Matriz SWOT</li><li>Conclusão</li></ul>... |
+
+&nbsp;
+
 ## Recursos
 
-* Python ou GeoGebra
+* GeoGebra, Excel ou Python
 
 * <https://www4.bcb.gov.br/pec/poupanca/poupanca.asp>
 
@@ -68,6 +83,6 @@
 
 | Thumb | Descrição |
 | --- | --- |
-| ![img](https://img.youtube.com/vi/-n8_IZbVAyw/default.jpg) | <sup>[YouTube_channel]</sup><br>[__Title__](https://www.youtube.com/watch?v=-n8_IZbVAyw)<br><sub>(hh:mm:ss, YouTube, dd/Mon/yyyy)</sub> |
+| ![img](https://img.youtube.com/vi/M2u4ZWHO5jM/default.jpg) | <sup><sub>[Dica de Hoje]</sub></sup> [__Aporte alto INICIAL ou aportes MENSAIS? O que traz MAIS DINHEIRO no futuro?__](https://www.youtube.com/watch?v=M2u4ZWHO5jM)<br><sub>(9:24, YouTube, 02/Ago/2023)</sub> |
 
 &nbsp;
