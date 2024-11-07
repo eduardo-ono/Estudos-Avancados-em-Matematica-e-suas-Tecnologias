@@ -47,7 +47,9 @@ $$
 
 * Juros compostos sem aporte (C = R\$ 10.000,00) vs juros compostos com aporte mensal (C = R\$ 1.000,00)
 
-![img](./geogebra-export.png)
+<p align="center">
+<img src="./geogebra-export.png" alt="">
+</p>
 
 ## Aportes com valor diferente do capital
 
