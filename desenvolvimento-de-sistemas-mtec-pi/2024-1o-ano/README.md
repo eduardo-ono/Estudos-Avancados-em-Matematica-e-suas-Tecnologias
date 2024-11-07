@@ -55,11 +55,7 @@
 
 * O documento deve estar paginado, a exceção da capa.
 
-## Critério de Avaliação
-
-* Parte Teórica: 50 % da nota, sendo a mesma nota para todos os integrantes do grupo.
-
-* Parte Prática: 50 % da nota, sendo a nota individual para cada integrante do grupo.
+&nbsp;
 
 ### Exemplo da estrutura do trabalho
 
@@ -72,6 +68,14 @@
 
 &nbsp;
 
+## Critério de Avaliação
+
+* Parte Teórica: 50 % da nota, sendo a mesma nota para todos os integrantes do grupo.
+
+* Parte Prática: 50 % da nota, sendo a nota individual para cada integrante do grupo.
+
+&nbsp;
+
 ## Recursos
 
 * GeoGebra, Excel ou Python
@@ -80,7 +84,7 @@
 
 &nbsp;
 
-## Material de Apoio
+## Vídeos de Apoio
 
 | Thumb | Descrição |
 | --- | --- |
