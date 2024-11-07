@@ -1,5 +1,5 @@
 <img alt="" width="100%" height="2px" align="right">
-Estudos-Avancados-em Matematica-e-suas-Tecnologias
+<sup>Estudos-Avancados-em Matematica-e-suas-Tecnologias</sup>
 <img alt="" width="100%" height="2px" align="right">
 
 &nbsp;
