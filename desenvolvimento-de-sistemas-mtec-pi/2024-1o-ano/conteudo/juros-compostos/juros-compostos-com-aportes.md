@@ -18,7 +18,7 @@ onde $M$ é o montante, $C$ o aporte, $j$ a taxa de juros e $t$ o tempo (duraç�
 
 ## Exemplo
 
-Para uma aplicação de R\$ 10.000,00 (capital) na Caderneta de Poupança a uma taxa de 0,6\% ao mês, aporte mensal de R\$ 100,00, o montante após 1 ano (12 meses) será:
+Para uma aplicação de R\$ 1.000,00 (capital) na Caderneta de Poupança a uma taxa de 0,6\% ao mês, aporte mensal de R\$ 1.000,00, o montante após 1 ano (12 meses) será:
 
 $C$ (R\$) = 1.000,00<br>
 $j$ (a.m.) = 0,6% = 0,6/100 = 0,006<br>
@@ -32,14 +32,14 @@ M_{12} &= \text{12.404,03}
 \end{align*}
 $$
 
-| Meses | $M = C \cdot \cfrac{(1 + j)^t - 1}{j}$ | $M = C \cdot \cfrac{(1 + j)^{t + 1} - 1}{j}$ |
-| :-: | --: | --: |
-| 0 |     0,00 | 1.000,00 |
-| 1 | 1.000,00 | 2.006,00 |
-| 2 | 2.006,00 | 3.018,04 |
-| ... | ... | ... |
-| 11 | 11.336,01 | 12.404,03 |
-| 12 | 12.404,03 | 13.478,45 |
+| Meses | $M = C \cdot \cfrac{(1 + j)^t - 1}{j}$ |
+| :-: | --: |
+| 0 |     0,00 |
+| 1 | 1.000,00 |
+| 2 | 2.006,00 |
+| ... | ... |
+| 11 | 11.336,01 |
+| 12 | 12.404,03 |
 
 &nbsp;
 
