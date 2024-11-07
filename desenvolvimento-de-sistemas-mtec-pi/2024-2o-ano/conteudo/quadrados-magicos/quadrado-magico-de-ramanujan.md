@@ -1,6 +1,6 @@
-<img alt="" width="100%" height="2px" align="center">
+<img alt="" width="100%" height="2px" align="left">
 Estudos-Avancados-em Matematica-e-suas-Tecnologias
-<img alt="" width="100%" height="2px" align="center">
+<img alt="" width="100%" height="2px" align="right">
 
 &nbsp;
 
