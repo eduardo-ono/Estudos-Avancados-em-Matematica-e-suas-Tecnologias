@@ -16,11 +16,12 @@
 | Aula | Data | Descrição |
 | :-: | :-: | :-- |
 | 01 | 08/10 | <ul><li>Apresentação da [proposta do Projeto do 4º Semestre]</li><li>Definição de Quadrado Mágico</li></ul> |
-|    | 15/10 | NL: Dia do Professor|
-| 02 | 22/10 | <ul><li>Exemplos de quadrados mágicos</li><li>Quadrado mágico de Ramanujan</li></ul> |
+|    | 15/10 | NL: Dia do Professor |
+| 02 | 22/10 | <ul><li>Exemplos de quadrados mágicos</li><li>[Quadrado mágico de Ramanujan]</li></ul> |
 | 03 | 29/10 | <ul><li>Aula prática em laboratório</li></ul>|
 
 [proposta do Projeto do 4º Semestre]: ./proposta-do-projeto/
+[Quadrado mágico de Ramanujan]: ./conteudo/quadrados-magicos/quadrado-magico-de-ramanujan.md
 
 &nbsp;
 
@@ -116,9 +117,7 @@
 
 ## Material de Apoio
 
-| Thumb | Descrição |
-| --- | --- |
-| ![img](https://img.youtube.com/vi/JCOv6ITiGEo/default.jpg) | <sup><sub>[Got It!]</sub></sup> [__Ramanujan's Magic Square__](https://www.youtube.com/watch?v=JCOv6ITiGEo)<br><sub>(2:18, YouTube, 19/Jun/2016)</sub> |
+
 
 &nbsp;
 
