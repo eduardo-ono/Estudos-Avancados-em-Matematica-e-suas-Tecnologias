@@ -1,7 +1,7 @@
 <h1 align="center">Estudos Avançados em Matemática e suas Tecnologias</h1>
-<h2 align="center">(Desenvolvimento de Sistemas - MTec-PI - 1o. Ano)</h2>
+<h2 align="center">(Desenvolvimento de Sistemas - MTec-PI - 1º Ano)</h2>
 <h3 align="center">Prof. Eduardo Ono</h3>
-<h5 align="center">Atualizado em: 28/10/2024</h5>
+<h5 align="center">Atualizado em: 07/11/2024</h5>
 
 &nbsp;
 
@@ -15,12 +15,12 @@
 
 | Aula | Data | Descrição |
 | :-: | :-: | :-- |
-| 01 | 08/10 | - Apresentação da [proposta do Projeto do 4º Semestre];<br>- Definição de quadrado mágico. |
-|    | 15/10 | (NL: Dia do Professor) |
-| 02 | 22/10 | - Exemplos de quadrados mágicos: Quadrado mágico de Ramanujan;<br>. |
-| 03 | 29/10 | |
+| 01 | 08/10 | <ul><li>Apresentação da [proposta do Projeto do 4º Semestre]</li><li>Definição de Quadrado Mágico</li></ul> |
+|    | 15/10 | NL: Dia do Professor|
+| 02 | 22/10 | <ul><li>Exemplos de quadrados mágicos</li><li>Quadrado mágico de Ramanujan</li></ul> |
+| 03 | 29/10 | <ul><li>Aula prática em laboratório</li></ul>|
 
-[proposta do Projeto do 4º Semestre]: #proposta-do-projeto-do-4º-semestre
+[proposta do Projeto do 4º Semestre]: ./proposta-do-projeto/
 
 &nbsp;
 
@@ -48,9 +48,9 @@
 
 ## Trabalho final
 
-* Documento único em formato PDF contendo a parte Teórica e a Parte Prática.
+* Documento único em formato PDF (tamanho máx. 2 MB) contendo a parte Teórica e a Parte Prática.
 
-* O trabalho deverá conter uma capa com informação do curso e turma, nomes dos intergrantes, data.
+* A capa deverá conter o nome do curso, turma, disciplina, Prof. responsável, nomes dos intergrantes, data.
 
 * O documento deve estar paginado, a exceção da capa.
 

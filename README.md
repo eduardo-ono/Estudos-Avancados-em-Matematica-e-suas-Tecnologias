@@ -12,10 +12,6 @@
 
 * ### Desenvolvimento de Sistemas (MTec-PI)
 
-  * #### [2024: 1º ano](./desenvolvimento-de-sistemas-mtec-pi/2024-1o-ano/)
-
-  * #### [2024: 2º ano](./desenvolvimento-de-sistemas-mtec-pi/2024-2o-ano/)
-
-  * #### [2024: 3º ano](./desenvolvimento-de-sistemas-mtec-pi/2024-3o-ano/)
+  * #### 2024 : [1º ano](./desenvolvimento-de-sistemas-mtec-pi/2024-1o-ano/) | [2º ano](./desenvolvimento-de-sistemas-mtec-pi/2024-2o-ano/) | [3º ano](./desenvolvimento-de-sistemas-mtec-pi/2024-3o-ano/)
 
 &nbsp;

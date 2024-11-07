@@ -12,6 +12,8 @@
 
 ## Requisitos para o Trabalho
 
+* Documento único em formato PDF (tamanho máx. 2 MB) contendo a Capa, Parte Teórica e a Parte Prática.
+
 * ### Parte Teórica
 
   * A parte teórica deverá conter uma breve conceituação dos seguintes tópicos:
