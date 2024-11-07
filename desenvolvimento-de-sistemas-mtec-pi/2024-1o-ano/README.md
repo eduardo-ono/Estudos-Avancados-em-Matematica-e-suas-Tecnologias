@@ -18,11 +18,12 @@
 | 01 | 08/10 | - Apresentação da [proposta do Projeto do 4º Semestre]. |
 | -- | 15/10 | (NL: Dia do Professor) |
 | 02 | 22/10 | - Conceitos de Juros Simples e [Juros Compostos];<br>- Fórmula para o cálculo de Juros Compostos: Definição e demonstração;<br>[Instalação do interpretador do Python]. |
-| 03 | 29/10 | |
+| 03 | 29/10 | - [Fórmula para o cálculo dos Juros Compostos com Aportes] |
 
 [Juros Compostos]: ./conteudo/juros-compostos/
 [proposta do Projeto do 4º Semestre]: #proposta-para-o-projeto-do-4º-semestre
 [Instalação do interpretador do Python]: ./conteudo/python/00-ambiente-de-desenvolvimento/
+[Fórmula para o cálculo dos Juros Compostos com Aportes]: ./conteudo/juros-compostos/juros-compostos-com-aportes.md
 
 &nbsp;
 
