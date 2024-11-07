@@ -18,7 +18,7 @@ onde $M$ é o montante, $C$ o aporte, $j$ a taxa de juros e $t$ o tempo (duraç�
 
 ## Exemplo
 
-Para uma aplicação de R\$ 10.000,00 (capital) na Caderneta de Poupança a uma taxa de 0,52\% ao mês, aporte mensal de R\$ 100,00, o montante após 1 ano (12 meses) será:
+Para uma aplicação de R\$ 10.000,00 (capital) na Caderneta de Poupança a uma taxa de 0,6\% ao mês, aporte mensal de R\$ 100,00, o montante após 1 ano (12 meses) será:
 
 $C$ (R\$) = 1.000,00<br>
 $j$ (a.m.) = 0,6% = 0,6/100 = 0,006<br>
