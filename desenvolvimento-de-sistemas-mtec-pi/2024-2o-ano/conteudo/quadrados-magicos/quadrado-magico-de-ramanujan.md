@@ -1,12 +1,11 @@
-<img alt="" width="100%" height="2px" align="right">
 <sup>Estudos Avançados em Matemática e suas Tecnologias</sup>
 <img alt="" width="100%" height="2px" align="right">
 
 &nbsp;
 
 <h1 align="center">Quadrado Mágico de Ramanujan</h1>
-<h3 align="center">Prof. Eduardo Ono</h3>
-<h5 align="center">Atualizado em: 07/11/2024</h5>
+<h4 align="center">Prof. Eduardo Ono</h4>
+<h6 align="center">Atualizado em: 07/11/2024</h6>
 
 &nbsp;
 
