@@ -22,7 +22,7 @@
 
 <p align="center">
 
-![img](./matriz-swot.png)
+![img](./matriz-swot.png)<br>
 <sub>Fonte: <https://pt.semrush.com/blog/analise-swot/></sub>
 
 </p>
