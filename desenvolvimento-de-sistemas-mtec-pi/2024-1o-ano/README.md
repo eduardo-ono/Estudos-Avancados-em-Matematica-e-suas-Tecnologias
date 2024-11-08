@@ -60,10 +60,10 @@
 ### Exemplo da estrutura do trabalho
 
 | Seções | Conteúdo |
-| :-: | --- |
+| :-: | :-- |
 | Capa | <ul><li>Curso</li><li>Turma</li><li>Disciplina</li><li>Prof. responsável</li><li>Título do trabalho</li><li>Nomes dos integrantes</li><li>Data</li></ul> |
 | Sumário | Opcional |
-| Parte Teórica | <ul><li>Introdução</li><li>Conceitos e/ou Definições</li><li>Recursos utilizados</li><li>Etc.</li></ul> |
+| Parte Teórica | <li>Introdução</li><li>Conceitos e/ou Definições</li><li>Recursos utilizados</li><li>Etc.</li> |
 | Parte Prática | Estudo de Caso (Integrante 1)<ul><li>Objetivos e Metas</li><li>Gráficos</li><li>Matriz SWOT</li><li>Conclusão</li></ul>Estudo de Caso (Integrante 2)<ul><li>Objetivos e Metas</li><li>Gráficos</li><li>Matriz SWOT</li><li>Conclusão</li></ul>... |
 
 &nbsp;
