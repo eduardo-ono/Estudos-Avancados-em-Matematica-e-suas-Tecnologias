@@ -1,5 +1,5 @@
-<h3 align="center">Administração - MTec-PI - 1º Ano</h3>
 <h1 align="center">Estudos Avançados em Matemática e suas Tecnologias</h1>
+<h3 align="center">(Administração - MTec-PI - 1º Ano)</h3>
 <h4 align="center">Prof. Eduardo Ono</h4>
 <h6 align="center"><img src="https://img.shields.io/github/last-commit/eduardo-ono/Estudos-Avancados-em-Matematica-e-suas-Tecnologias" alt="img" height="100%"></h6>
 
@@ -82,9 +82,17 @@
 
 ## Recursos
 
-* [GeoGebra](https://www.geogebra.org/calculator) ou Excel
+* Rendimentos e Taxas Referenciais (TR) da Caderneta de Poupança
 
-* <https://www4.bcb.gov.br/pec/poupanca/poupanca.asp>
+  * <https://www4.bcb.gov.br/pec/poupanca/poupanca.asp>
+
+* Ferramentas para construção de gráficos
+
+  * [GeoGebra](https://www.geogebra.org/calculator), Excel ou Python
+
+* Ferramentas para manipulação de arquivos PDF
+
+  * <https://www.sejda.com/pt/>
 
 &nbsp;
 

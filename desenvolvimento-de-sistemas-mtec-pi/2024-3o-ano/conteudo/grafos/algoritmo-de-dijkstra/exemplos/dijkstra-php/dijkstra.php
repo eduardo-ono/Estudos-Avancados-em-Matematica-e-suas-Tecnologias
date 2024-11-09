@@ -9,11 +9,12 @@
 
 $INT_MAX = 0x7FFFFFFF;
 
-function MinimumDistance($distance, $shortestPathTreeSet, $numVertices)
+function MinimumDistance($distance, $shortestPathTreeSet)
 {
 	global $INT_MAX;
 	$min = $INT_MAX;
 	$minIndex = 0;
+	$numVertices = count($distance);
 
 	for ($v = 0; $v < $numVertices; ++$v)
 	{
@@ -27,18 +28,10 @@ function MinimumDistance($distance, $shortestPathTreeSet, $numVertices)
 	return $minIndex;
 }
 
-// Caso a saída seja uma página web, substrituir os caracteres de controle "\t" e "\n" por "&nbsp;&nbsp;&nbsp;&nbsp;" e "<br", respectivamente.
-function PrintResult($distance, $numVertices)
-{
-	echo "Vertex \t Distancia da origem\n";
-
-	for ($i = 0; $i < $numVertices; ++$i)
-		echo $i . "\t  " . $distance[$i] . "\n";
-}
-
-function Dijkstra($grafo, $origem, $numVertices)
+function Dijkstra($grafo, $origem)
 {
 	global $INT_MAX;
+	$numVertices = count($grafo);
 	$distance = array();
 	$shortestPathTreeSet = array();
 
@@ -59,6 +52,5 @@ function Dijkstra($grafo, $origem, $numVertices)
 			if (!$shortestPathTreeSet[$v] && $grafo[$u][$v] && $distance[$u] != $INT_MAX && $distance[$u] + $grafo[$u][$v] < $distance[$v])
 				$distance[$v] = $distance[$u] + $grafo[$u][$v];
 	}
-	// PrintResult($distance, $numVertices);
 	return $distance;
 }

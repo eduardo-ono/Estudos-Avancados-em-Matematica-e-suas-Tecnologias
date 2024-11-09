@@ -78,9 +78,17 @@
 
 ## Recursos
 
-* GeoGebra, Excel ou Python
+* Rendimentos e Taxas Referenciais (TR) da Caderneta de Poupança
 
-* <https://www4.bcb.gov.br/pec/poupanca/poupanca.asp>
+  * <https://www4.bcb.gov.br/pec/poupanca/poupanca.asp>
+
+* Ferramentas para construção de gráficos
+
+  * [GeoGebra](https://www.geogebra.org/calculator), Excel ou Python
+
+* Ferramentas para manipulação de arquivos PDF
+
+  * <https://www.sejda.com/pt/>
 
 &nbsp;
 

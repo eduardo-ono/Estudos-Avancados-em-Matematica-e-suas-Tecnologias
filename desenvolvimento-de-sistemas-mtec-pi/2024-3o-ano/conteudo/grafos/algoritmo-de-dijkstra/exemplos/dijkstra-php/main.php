@@ -16,7 +16,7 @@ $origem = 0;
 
 // Parâmetros da função Dijkstra: (grafo, vértice_origem, ordem_da_Matriz_de_Adjacências)
 // Dijkstra($grafo, 0, 6);
-$distancias_minimas = Dijkstra($grafo, $origem, count($grafo));
+$distancias_minimas = Dijkstra($grafo, $origem);
 
 $cidades = array('Pirassununga', 'Leme', 'Araras', 'Porto Ferreira', 'Mococa', 'Rio Claro');
 
