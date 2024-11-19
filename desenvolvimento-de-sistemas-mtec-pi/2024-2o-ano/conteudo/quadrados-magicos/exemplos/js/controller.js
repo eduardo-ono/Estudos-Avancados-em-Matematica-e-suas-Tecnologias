@@ -1,5 +1,5 @@
-function _criarQuadrado() {
-  const N = document.getElementById('ordem-quadrado').value;
+function _criarQuadrado(ordem) {
+  const N = (ordem == 0) ? document.getElementById('ordem-quadrado').value : ordem;
   const quadrado_container = document.getElementById('quadrado-container');
   // Remove todos os elementos filhos do quadrado_container
   quadrado_container.innerHTML = '';
@@ -13,6 +13,8 @@ function _criarQuadrado() {
   }
   quadrado_magico.setAttribute('id', 'quadrado-magico');
   quadrado_container.appendChild(quadrado_magico);
+
+  return quadrado_magico;
 }
 
 // Completa o Quadrado Mágico através do Método de Sião
@@ -24,7 +26,21 @@ function _metodoDeSiao() {
   metodoDeSiao(quadrado_magico);
 }
 
-function controllerConverterQuadradoParaMatriz() {
+function _ramanujan() {
+  const quadrado_magico = _criarQuadrado(4);
+  const matriz_ramanujan = ramanujan(22, 12, 1887); // 'ramanujan.js'
+  const cels = quadrado_magico.children;
+  console.log(matriz_ramanujan);
+  console.log(quadrado_magico);
+  // Transforma a matriz em um array
+  const arrayDaMatriz = [].concat(...matriz_ramanujan);
+  // Atribui os valores da matriz de Ramanujan para o Quadrado Mágico
+  for (const i in cels) {
+    cels[i].innerHTML = arrayDaMatriz[i];
+  }
+}
+
+/* function controllerConverterQuadradoParaMatriz() {
   const quadrado = document.getElementById('quadrado');
   const celulas = quadrado.children;
   const num_celulas = celulas.length;
@@ -52,3 +68,4 @@ function controllerConverterQuadradoParaMatriz() {
   }
   return matriz;
 }
+ */

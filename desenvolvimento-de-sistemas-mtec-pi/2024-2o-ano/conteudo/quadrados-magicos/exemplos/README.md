@@ -12,5 +12,6 @@
 | Exemplo | Versão Online |
 | --- | :-: |
 | [Método de Sião](./metodo-de-siao.html) | [link](https://eduardo-ono.github.io/Estudos-Avancados-em-Matematica-e-suas-Tecnologias/desenvolvimento-de-sistemas-mtec-pi/2024-2o-ano/conteudo/quadrados-magicos/exemplos/metodo-de-siao.html) |
+| Quadrado Mágico de Ramanujan | [link](https://eduardo-ono.github.io/Estudos-Avancados-em-Matematica-e-suas-Tecnologias/desenvolvimento-de-sistemas-mtec-pi/2024-2o-ano/conteudo/quadrados-magicos/exemplos/quadrado-magico-de-ramanujan.html)
 
 &nbsp;
