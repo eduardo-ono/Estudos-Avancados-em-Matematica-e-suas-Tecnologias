@@ -18,10 +18,14 @@
 | 01 | 08/10 | <ul><li>Apresentação da [proposta do Projeto do 4º Semestre]</li><li>Definição de Quadrado Mágico</li></ul> |
 |    | 15/10 | NL: Dia do Professor |
 | 02 | 22/10 | <ul><li>Exemplos de quadrados mágicos</li><li>[Quadrado mágico de Ramanujan]</li></ul> |
-| 03 | 29/10 | <ul><li>Aula prática em laboratório</li></ul>|
+| 03 | 29/10 | <ul><li>Aula prática em laboratório</li></ul> |
+| 04 | 05/11 | <ul><li>Aula prática em laboratório</li></ul> |
+| 05 | 12/10 | Provão Paulista Seriado |
+| 06 | 19/11 | [Exemplos de Quadrados Mágicos: Aplicações web] |
 
 [proposta do Projeto do 4º Semestre]: ./proposta-do-projeto/
 [Quadrado mágico de Ramanujan]: ./conteudo/quadrados-magicos/quadrado-magico-de-ramanujan.md
+[Exemplos de Quadrados Mágicos: Aplicações web]: ./conteudo/quadrados-magicos/exemplos/
 
 &nbsp;
 
