@@ -1,8 +1,9 @@
 function _criarQuadrado() {
   const N = document.getElementById('ordem-quadrado').value;
-  let quadrado_container = document.getElementById('quadrado-container');
-  quadrado_container.innerHTML = ''; // Remove todos os elementos filhos
-  const quadrado_magico = criarQuadrado(N);
+  const quadrado_container = document.getElementById('quadrado-container');
+  // Remove todos os elementos filhos do quadrado_container
+  quadrado_container.innerHTML = '';
+  const quadrado_magico = criarQuadrado(N); // Função do arquivo 'criar-quadrado.js'
   quadrado_magico.style.gridTemplateColumns = `repeat(${N}, 50px)`;
 
   // Adiciona a classe 'celula' (css) em todas as celulas
@@ -12,14 +13,15 @@ function _criarQuadrado() {
   }
   quadrado_magico.setAttribute('id', 'quadrado-magico');
   quadrado_container.appendChild(quadrado_magico);
-  console.log(quadrado_container);
 }
 
-// Completa o Quadrado Mágico
+// Completa o Quadrado Mágico através do Método de Sião
 function _metodoDeSiao() {
   const quadrado_magico = document.getElementById('quadrado-magico');
-  var matriz = controllerConverterQuadradoParaMatriz();
-
+  if (quadrado_magico == null) {
+    return;
+  }
+  metodoDeSiao(quadrado_magico);
 }
 
 function controllerConverterQuadradoParaMatriz() {

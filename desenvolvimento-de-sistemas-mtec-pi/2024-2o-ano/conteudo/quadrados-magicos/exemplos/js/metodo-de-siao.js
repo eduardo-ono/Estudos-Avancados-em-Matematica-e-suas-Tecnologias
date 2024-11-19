@@ -2,7 +2,7 @@
 // Preenche o Quadrado Mágico usando o método de Sião
 function metodoDeSiao(quadrado_magico) {
   // const num_nodes = quadrado.childElementCount;
-  const celulas = quadrado.children;
+  const celulas = quadrado_magico.children;
   const num_celulas = celulas.length;
   if (num_celulas == 0) {
     return;

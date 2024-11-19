@@ -13,8 +13,6 @@ function criarQuadrado(N) {
     }
     celulas.push(linha);
   }
-  console.log(quadrado);
-
   // for (let row = 0; row < N; row++) {
   //   for (var col = 0; col < N; col++) {
   //     quadrado.appendChild(celulas[row][col]);
