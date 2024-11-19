@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Método de Sião</title>
+  <link rel="stylesheet" href="./style.css">
+  <script src="./js/controller.js"></script>
+  <script src="./js/criar-quadrado.js"></script>
+  <!-- <script src="./js/metodo-de-siao.js" defer></script> -->
+</head>
+
+<body>
+  <small>Estudos Especiais em Matemática e suas Tecnologias</small>
+  <hr>
+  <h1>Método de Sião</h1>
+  <h4>Prof. Eduardo Ono</h4>
+
+  <main>
+    <h3>Quadrado Mágico</h3>
+    <p>Entre com a ordem do quadrado Mágico:
+      <input type="number" name="ordem" id="ordem-quadrado">
+      <button id="button-criar" onclick="_criarQuadrado()">Criar</button>
+    </p>
+    <div id="quadrado-container"></div>
+    <button id="button-completar" onclick="completarQuadrado()">Completar Quadrado</button>
+  </main>
+
+</body>
+
+</html>
