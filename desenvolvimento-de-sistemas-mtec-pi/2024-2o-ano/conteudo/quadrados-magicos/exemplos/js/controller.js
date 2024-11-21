@@ -1,4 +1,4 @@
-function _criarQuadrado(ordem) {
+function _criarQuadrado(ordem = 0) {
   const N = (ordem == 0) ? document.getElementById('ordem-quadrado').value : ordem;
   const quadrado_container = document.getElementById('quadrado-container');
   // Remove todos os elementos filhos do quadrado_container
@@ -30,8 +30,6 @@ function _ramanujan() {
   const quadrado_magico = _criarQuadrado(4);
   const matriz_ramanujan = ramanujan(22, 12, 1887); // 'ramanujan.js'
   const cels = quadrado_magico.children;
-  console.log(matriz_ramanujan);
-  console.log(quadrado_magico);
   // Transforma a matriz em um array
   const arrayDaMatriz = [].concat(...matriz_ramanujan);
   // Atribui os valores da matriz de Ramanujan para o Quadrado Mágico

@@ -13,12 +13,12 @@
 
 "Movimento" inicial:
 
-Inserir o número 1 na posição central da linha 1.
-OBS. Sempre haverá a posição central, pois op método de Sião se aplica apenas para quadrados (matrizes) de ordem ímpar.
+Escrever o número 1 na posição central da linha 1 (ou linha 0 em muitas linguagens de programação).
+OBS. Sempre haverá a posição central de uma linha pois o método de Sião se aplica apenas para quadrados (matrizes) de ordem ímpar.
 
 São duas regras:
 
-1. Movimentar uma célula para cima e uma célula para a direita (diagonal à direita). Inserir o número na sequência. Caso o índice da linha seja -1, considerar o índice como sendo a da última linha. Caso o índice da coluna seja maior que o do índice da última coluna, considerar o índice como 0 (ou 1 em algumas linguagens de programação).
+1. Movimentar uma célula para cima e uma célula para a direita (diagonal à direita). Inserir o número na sequência. Caso o índice da linha seja 0 (ou -1), considerar o índice como sendo a da última linha. Caso o índice da coluna seja maior que o do índice da última coluna, considerar o índice como 1 (ou 0 em muitas linguagens de programação).
 
 2. Caso a célula já esteja ocupada por um número, voltar para a posição anterior (a que deu origem ao movimento atual) e descer uma célula (deverá estar vazia).
 
