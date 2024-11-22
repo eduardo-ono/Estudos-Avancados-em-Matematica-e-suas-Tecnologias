@@ -28,6 +28,10 @@ function _criarQuadrado(quadrado_container, ordem = 0) {
 function _metodoDeSiao() {
   const quadrado_container = document.getElementById('quadrado-container');
   const N = document.getElementById('ordem-quadrado').value;
+  // Validação da entrada: Encerra a função se a ordem do quadrado for par
+  if (N % 2 == 0) {
+    return;
+  }
   _criarQuadrado(quadrado_container, N);
   const quadrado_magico = document.getElementById('quadrado-magico');
   if (quadrado_magico == null) {

@@ -1,3 +1,8 @@
+/* Variáveis globais */
+:root {
+  --input-number-height: 24px;
+}
+
 
 h1, h2, h3, h4 {
   text-align: center;
@@ -12,17 +17,18 @@ main {
 }
 
 button {
-  margin: 4px;
+  margin: 8px;
 }
 
-#ordem-quadrado {
+input[type=number] {
   margin: 4px;
   width: 50px;
-  min-height: 25px;
+  min-height: var(--input-number-height);
 }
 
-#button-criar {
-  margin: 4px;
+/* Ajusta o tamanho das setas laterais do input */
+input[type=number]::-webkit-inner-spin-button {
+  height: var(--input-number-height);
 }
 
 #quadrado-container {

@@ -5,7 +5,7 @@ function metodoDeSiao(quadrado_magico) {
   const celulas = quadrado_magico.children;
   const num_celulas = celulas.length;
   if (num_celulas == 0) {
-    return;
+    return [];
   }
   const N = Math.round(Math.sqrt(num_celulas));
   if ((N * N) != num_celulas) {
