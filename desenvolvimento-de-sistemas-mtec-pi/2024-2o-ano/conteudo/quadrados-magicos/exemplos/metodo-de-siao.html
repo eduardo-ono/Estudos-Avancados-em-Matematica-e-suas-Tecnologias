@@ -12,19 +12,19 @@
 </head>
 
 <body>
-  <small>Estudos Especiais em Matemática e suas Tecnologias</small>
+  <sub>Estudos Avançados em Matemática e suas Tecnologias</sub>
+  <sub style="float: right;"><a href="https://github.com/eduardo-ono/Estudos-Avançados-em-Matematica-e-suas-Tecnologias">Home</a></sub>
   <hr>
   <h1>Método de Sião</h1>
   <h4>Prof. Eduardo Ono</h4>
 
   <main>
-    <h3>Quadrado Mágico</h3>
+    <h3 style="margin-top: 50px;">Quadrado Mágico</h3>
     <p>Entre com a ordem do quadrado Mágico:
-      <input type="number" name="ordem" id="ordem-quadrado">
-      <button id="button-criar" onclick="_criarQuadrado()">Criar</button>
+      <input type="number" name="ordem" id="ordem-quadrado" min="1" max="15" step="2" value="1"><br>
+      <button id="button" onclick="_metodoDeSiao()">Criar o Quadrado Mágico</button>
     </p>
     <div id="quadrado-container"></div>
-    <button id="button-completar" onclick="_metodoDeSiao()">Completar Quadrado</button>
   </main>
 
 </body>

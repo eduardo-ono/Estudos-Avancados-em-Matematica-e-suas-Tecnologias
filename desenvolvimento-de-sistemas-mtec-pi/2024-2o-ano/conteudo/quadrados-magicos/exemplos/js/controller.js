@@ -1,6 +1,13 @@
-function _criarQuadrado(ordem = 0) {
+/*
+ * Arquivo      : controller.js
+ * Criado por   : Eduardo Ono
+ * Criado em    : 18/11/2024
+ * Atualizado em: 21/11/2024
+ * Referências  :
+*/
+
+function _criarQuadrado(quadrado_container, ordem = 0) {
   const N = (ordem == 0) ? document.getElementById('ordem-quadrado').value : ordem;
-  const quadrado_container = document.getElementById('quadrado-container');
   // Remove todos os elementos filhos do quadrado_container
   quadrado_container.innerHTML = '';
   const quadrado_magico = criarQuadrado(N); // Função do arquivo 'criar-quadrado.js'
@@ -17,8 +24,11 @@ function _criarQuadrado(ordem = 0) {
   return quadrado_magico;
 }
 
-// Completa o Quadrado Mágico através do Método de Sião
+// Cria e completa o Quadrado Mágico através do Método de Sião
 function _metodoDeSiao() {
+  const quadrado_container = document.getElementById('quadrado-container');
+  const N = document.getElementById('ordem-quadrado').value;
+  _criarQuadrado(quadrado_container, N);
   const quadrado_magico = document.getElementById('quadrado-magico');
   if (quadrado_magico == null) {
     return;
@@ -27,7 +37,8 @@ function _metodoDeSiao() {
 }
 
 function _ramanujan() {
-  const quadrado_magico = _criarQuadrado(4);
+  const quadrado_container = document.getElementById('quadrado-container');
+  const quadrado_magico = _criarQuadrado(quadrado_container, 4);
   const matriz_ramanujan = ramanujan(22, 12, 1887); // 'ramanujan.js'
   const cels = quadrado_magico.children;
   // Transforma a matriz em um array
