@@ -24,7 +24,6 @@ function _criarQuadrado(quadrado_container, ordem = 0) {
   return quadrado_magico;
 }
 
-// Cria e completa o Quadrado Mágico através do Método de Sião
 function _metodoDeSiao() {
   const quadrado_container = document.getElementById('quadrado-container');
   const N = document.getElementById('ordem-quadrado').value;
@@ -35,9 +34,16 @@ function _metodoDeSiao() {
   _criarQuadrado(quadrado_container, N);
   const quadrado_magico = document.getElementById('quadrado-magico');
   if (quadrado_magico == null) {
-    return;
+    // return;
   }
-  metodoDeSiao(quadrado_magico);
+  const matriz = metodoDeSiao(N);
+  const cels = quadrado_magico.children;
+  // Transforma a matriz em um array
+  const arrayDaMatriz = [].concat(...matriz);
+  // Atribui os valores da matriz de Ramanujan para o Quadrado Mágico
+  for (const i in cels) {
+    cels[i].innerHTML = arrayDaMatriz[i];
+  }
 }
 
 function _ramanujan() {
@@ -53,32 +59,7 @@ function _ramanujan() {
   }
 }
 
-/* function controllerConverterQuadradoParaMatriz() {
-  const quadrado = document.getElementById('quadrado');
-  const celulas = quadrado.children;
-  const num_celulas = celulas.length;
-  if (num_celulas == 0) {
-    return;
-  }
-  const N = Math.round(Math.sqrt(num_celulas));
-  if ((N * N) != num_celulas) {
-    return;
-  }
-  // Verifica se a ordem do Quadrado Mágico é impar
-  if (N % 2 == 0) {
-    return;
-  }
-  // Armazena as células do Quadrado Mágico em uma matriz
-  var matriz = [];
-  var linha = [];
-  for (let i = 0; i < celulas.length; i++) {
-    celulas[i].innerHTML = '';
-    linha.push(celulas[i]);
-    if ((i + 1) % N == 0) {
-      matriz.push(linha);
-      linha = [];
-    }
-  }
-  return matriz;
-}
+/* REFERÊNCIAS
+ *
+ * https://www.visualdicas.com.br/programacao/js/98-usando-a-propriedade-children-no-javascript
  */
