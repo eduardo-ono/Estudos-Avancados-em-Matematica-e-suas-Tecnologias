@@ -1,4 +1,4 @@
-<sup>Estudos Especiais em Matemática e suas Tecnologias</sup>
+<sup>Estudos Avançados em Matemática e suas Tecnologias</sup>
 <img alt="" width="99%" height="2px" align="right">
 
 &nbsp;
