@@ -6,10 +6,9 @@
 
 ## Representações de Matrizes
 
-* Exemplo de uma matriz $3 \times 3$ em linguagem algébrica (uso de letras para representar números)
+* Exemplo de uma matriz $3 \times 3$ em linguagem algébrica (uso de letras para representar números):
 
 $$
-M =
 \begin{bmatrix}
 a_{11} & a_{12} & a_{13} \\
 a_{21} & a_{22} & a_{23} \\
@@ -17,10 +16,9 @@ a_{31} & a_{32} & a_{33}
 \end{bmatrix}
 $$
 
-* Exemplo de representação de uma matriz $3 \times 3$ onde os índices iniciam em 0 (zero) e as linhas são vetores
+* Exemplo de representação de uma matriz $3 \times 3$ na linguagem JavaScript, onde os índices iniciam em 0 (zero) e as linhas são vetores (arrays):
 
 $$
-M =
 \begin{bmatrix}
 \ [ \ a_{00} & a_{01} & a_{02} \ ] \ \\
 \ [ \ a_{10} & a_{11} & a_{12} \ ] \ \\

@@ -22,10 +22,12 @@
 | 04 | 05/11 | <ul><li>Aula prática em laboratório</li></ul> |
 | 05 | 12/10 | Provão Paulista Seriado |
 | 06 | 19/11 | <ul><li>[Exemplos de Quadrados Mágicos: Aplicações web]</li></ul> |
+| 07 | 26/11 | <ul><li>[Matriz transposta e matriz reversa em JavaScript]</li></ul>
 
 [proposta do Projeto do 4º Semestre]: ./proposta-do-projeto/
 [Quadrado mágico de Ramanujan]: ./conteudo/quadrados-magicos/quadrado-magico-de-ramanujan.md
 [Exemplos de Quadrados Mágicos: Aplicações web]: ./conteudo/quadrados-magicos/exemplos/
+[Matriz transposta e matriz reversa em JavaScript]: [](./conteudo/html-css-js/matrizes-em-js/)
 
 &nbsp;
 
