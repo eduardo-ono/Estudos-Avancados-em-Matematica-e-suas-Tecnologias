@@ -1,11 +1,11 @@
 <sup>Estudos Avançados em Matemática e suas Tecnologias</sup>
-<img alt="" width="99%" height="2px" align="right">
+<img alt="" width="100%" height="2px" align="right">
 
 &nbsp;
 
 <h1 align="center">Exemplos de Quadrados Mágicos</h1>
 <h4 align="center">Prof. Eduardo Ono</h4>
-<h6 align="center">Atualizado em: 19/11/2024</h6>
+<h6 align="center">Atualizado em: 26/11/2024</h6>
 
 &nbsp;
 
