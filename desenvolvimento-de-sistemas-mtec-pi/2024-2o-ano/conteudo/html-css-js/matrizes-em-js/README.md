@@ -55,7 +55,7 @@ int[][] m = { {1, 2, 3},
 ```java
 for (int i = 0; i < m.lenght; i++) {
   for (int j = 0; j < m[i].lenght; j++) {
-    System.out.print(a[i][j] + " ");
+    System.out.print(m[i][j] + " ");
   }
   System.out.println();
 }
