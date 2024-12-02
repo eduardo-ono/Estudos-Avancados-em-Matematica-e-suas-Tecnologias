@@ -70,7 +70,7 @@ Pivô = E
 
 &nbsp;
 
-## Representação de um grafo oonderado através de Matriz de Adjacência
+## Representação de um grafo ponderado através de Matriz de Adjacência
 
 Na matriz de Adjacência (ou Matriz de Adjacências) cada elemento corresponde ao peso da aresta que conecta dois vértices. Quando não há uma conecção direta entre dois vértices, o elemento recebe o valor zero. O valor entre um mesmo vértice, por exemplo, entre o vértice _A_ e _A_, _B_ e _B_, etc., também é zero.
 
