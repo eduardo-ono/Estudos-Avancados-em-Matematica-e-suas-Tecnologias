@@ -1,6 +1,6 @@
 <h1 align="center">Fundamentos</h1>
-<h3 align="center">Prof. Eduardo Ono</h3>
-<h5 align="center">Atualizado em: 11/10/2024</h5>
+<h4 align="center">Prof. Eduardo Ono</h4>
+<h6 align="center">Atualizado em: 02/12/2024</h6>
 
 &nbsp;
 
@@ -8,10 +8,12 @@
 
 * ### Linguagem de Programação Java (Revisão)
 
-* ### Grafos
+* ### [Grafos](./grafos/)
 
-  * Algoritmo de Dijkstra
+  * [Representações de Grafos](./grafos/representacoes-de-grafos/)
 
-* ### Matriz SWOT
+  * [Algoritmo de Dijkstra](./grafos/algoritmo-de-dijkstra/)
+
+* ### [Matriz SWOT](./matriz-swot/)
 
 &nbsp;

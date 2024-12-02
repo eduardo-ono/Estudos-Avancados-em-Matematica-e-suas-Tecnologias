@@ -14,14 +14,14 @@
 
 &nbsp;
 
-## Exemplos
+## Exemplo
 
 ```mermaid
 graph LR;
-    id0((A)) --- id1((B));
-    A-->C;
-    B-->D;
-    C-->D;
+    A((A)) <--> B((B));
+    B<-->C((C));
+    B<-->D((D));
+    C<-->D;
 ```
 
 &nbsp;
