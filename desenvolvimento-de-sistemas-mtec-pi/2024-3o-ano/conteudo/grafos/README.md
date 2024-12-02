@@ -6,22 +6,12 @@
 
 ## Sumário
 
+* ### [Definições](./definicoes/)
+
 * ### [Representações de Grafos](./representacoes-de-grafos/)
 
   * Matriz de Adjacências
 
 * ### [Algoritmo de Dijkstra](./algoritmo-de-dijkstra/)
-
-&nbsp;
-
-## Exemplo
-
-```mermaid
-graph LR;
-    A((A)) <--> B((B));
-    B<-->C((C));
-    B<-->D((D));
-    C<-->D;
-```
 
 &nbsp;
