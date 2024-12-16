@@ -74,6 +74,7 @@ Pivô = E
 
 | Thumb | Descrição |
 | :-: | --- |
+| ![img](https://img.youtube.com/vi/HUSoIQwJ6cI/default.jpg) | <sup>[Luana Almeida]</sup> [__Resolvendo um exemplo usando o método de DIJKSTRA para encontrar um caminho mínimo__](https://www.youtube.com/watch?v=HUSoIQwJ6cI)<br><sub>(3:34, YouTube, 30/Nov/2022)</sub> |
 | ![img](https://img.youtube.com/vi/pzCFs1F3XiI/default.jpg) | <sup>[Luana Almeida]</sup> [__Resolvendo mais um exemplo do algoritmo de Dijkstra__](https://www.youtube.com/watch?v=pzCFs1F3XiI)<br><sub>(3:55, YouTube, 09/Jan/2023)</sub> |
 
 &nbsp;

@@ -20,10 +20,15 @@
 | 04    | 09/10 | - [Algoritmo de Dijkstra para caminhos mínimos];<br>- Representação de um grafo por meio de uma Matriz de Adjacências. |
 | 05-06 | 11/10 | - [Revisão de Programação Orientada a Objetos (POO) em Java](./conteudo/fundamentos-da-linguagem-java/);<br>- [Implementação de _threads_ em Java.](./conteudo/threads/threads-em-java/); - [Algoritmo "time elapsed"](./conteudo/threads/threads-em-java/exemplos/exemplo1-v0/Main.java) (tempo decorrido) para "benchmark" de tempo de execução. |
 | 07    | 23/10 | - Exemplos de [algoritmos para resolução de problemas matemáticos por "força-bruta"](./conteudo/algoritmos-de-forca-bruta/). |
-|       | 30/10 | Provão Paulista Seriado |
+|       | 30/10 | <ul><li>Provão Paulista Seriado</li></ul> |
 | 08-09 | 01/11 | Implementação do [Algoritmo de Dijkstra] nas linguagens Java e PHP. |
 | 10    | 06/11 | Acompanhamento dos projetos |
 | 11-12 | 08/11 | <ul><li>Delineamento dos caminhos mínimos no algoritmo de Dijkstra</li><li>Matriz SWOT</li></ul> |
+|       | 15/11 | NL: Feriado
+| 13    | 04/12 | Acompanhamento dos projetos. |
+|       | 06/12 | Entrega dos trabalhos. |
+|       | 11/12 | Apresentação de TCCs. |
+|       | 13/12 | [Notas](./docs/Notas-DS-MTec-PI-3o-ano-2024.pdf) e [trabalhos](./trabalhos/) |
 
 [Algoritmo de Dijkstra para caminhos mínimos]: ./conteudo/grafos/algoritmo-de-dijkstra/
 
